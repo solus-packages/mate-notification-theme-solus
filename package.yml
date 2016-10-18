@@ -1,8 +1,8 @@
 name       : mate-notification-theme-solus
-version    : 1
-release    : 1
+version    : 2
+release    : 2
 source     :
-    - https://github.com/solus-project/mate-notification-theme-solus/releases/download/v1/mate-notification-theme-solus-1.tar.xz : b838d3d4a7b9a34120625b0f9075d84fed0ec4f027e7ccd0104ec214f6e73f56
+    - https://github.com/solus-project/mate-notification-theme-solus/releases/download/v2/mate-notification-theme-solus-2.tar.xz : aaca745f4632fe465498d940790541f43437769a7251bd42708a0a13375c99b4
 license    : LGPL-2.1
 component  : desktop.mate
 summary    : The Solus MATE Notification Daemon theme
